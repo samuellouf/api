@@ -1,0 +1,15 @@
+{
+  "pages": [
+    {
+      "name": "TurboWarp Extension Creator",
+      "url": "https://samuellouf.github.io/TurboWarp-Extension-Creator/",
+      "short_description": "Easily create TurboWarp Extensions.",
+      "description": "",
+      "isDownloadableApp": true,
+      "isWebApp": true,
+      "webAppURL": "https://samuellouf.github.io/TurboWarp-Extension-Creator/app/",
+      "downloadURL": "https://samuellouf.github.io/TurboWarp-Extension-Creator/?download",
+      "isProject": true
+    }
+  ]
+}
