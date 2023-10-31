@@ -9,7 +9,8 @@
       "isWebApp": true,
       "webAppURL": "https://samuellouf.github.io/TurboWarp-Extension-Creator/app/",
       "downloadURL": "https://samuellouf.github.io/TurboWarp-Extension-Creator/?download",
-      "isProject": true
+      "isProject": true,
+      "tags": ["TurboWarp", "TurboWarp Extension"]
     }
   ]
 }
