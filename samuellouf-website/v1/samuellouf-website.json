@@ -11,6 +11,27 @@
       "downloadURL": "https://samuellouf.github.io/TurboWarp-Extension-Creator/?download",
       "isProject": true,
       "tags": ["TurboWarp", "TurboWarp Extension"]
+    },
+    {
+      "name": "API",
+      "url": "https://samuellouf.github.io/api/",
+      "short_description": "My API(s).",
+      "description": "",
+      "isDownloadableApp": false,
+      "isWebApp": false,
+      "isProject": false,
+      "tags": ["api"]
+    },
+    {
+      "name": "Free JavaScript YouTube Video API",
+      "url": "https://samuellouf.github.io/Free-JavaScript-YouTube-Video-API/",
+      "short_description": "Use YouTube’s video API in JavaScript.",
+      "description": "",
+      "isDownloadableApp": true,
+      "isWebApp": false,
+      "downloadURL": "https://samuellouf.github.io/TurboWarp-Extension-Creator/?download",
+      "isProject": true,
+      "tags": ["YouTube", "JavaScript", "API"]
     }
   ]
 }
