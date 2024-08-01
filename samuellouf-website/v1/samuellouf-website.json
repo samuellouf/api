@@ -13,6 +13,18 @@
       "tags": ["TurboWarp", "TurboWarp Extension"]
     },
     {
+      "name": "Web Media Player",
+      "url": "https://samuellouf.github.io/WebMediaPlayer/",
+      "short_description": "An easy-to-use Web Media Player.",
+      "description": "",
+      "isDownloadableApp": false,
+      "isWebApp": true,
+      "webAppURL": "https://samuellouf.github.io/WebMediaPlayer/player",
+      "downloadURL": "",
+      "isProject": true,
+      "tags": ["Web", "Media", "Player", "WebMediaPlayer", "Multimedia", "Video", "Image", "Music", "Subtitles", "Tracks"]
+    },
+    {
       "name": "API",
       "url": "https://samuellouf.github.io/api/",
       "short_description": "My API(s).",
