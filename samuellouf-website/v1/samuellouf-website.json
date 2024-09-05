@@ -44,6 +44,16 @@
       "downloadURL": "https://samuellouf.github.io/Free-JavaScript-YouTube-Video-API/api.js",
       "isProject": true,
       "tags": ["YouTube", "JavaScript", "API"]
+    },
+    {
+      "name": "Music",
+      "url": "https://samuellouf.github.io/music/",
+      "short_description": "My Music and Remakes.",
+      "description": "",
+      "isDownloadableApp": false,
+      "isWebApp": false,
+      "isProject": false,
+      "tags": ["Music", "Remake"]
     }
   ]
 }
