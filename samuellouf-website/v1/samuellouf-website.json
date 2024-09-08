@@ -1,16 +1,15 @@
 {
   "pages": [
     {
-      "name": "TurboWarp Extension Creator",
-      "url": "https://samuellouf.github.io/TurboWarp-Extension-Creator/",
-      "short_description": "Easily create TurboWarp Extensions.",
+      "name": "PyBrowser",
+      "url": "https://samuellouf.github.io/PyBrowser/",
+      "short_description": "A free, open-source, Python-made web browser.",
       "description": "",
       "isDownloadableApp": true,
-      "isWebApp": true,
-      "webAppURL": "https://samuellouf.github.io/TurboWarp-Extension-Creator/app/",
-      "downloadURL": "https://samuellouf.github.io/TurboWarp-Extension-Creator/?download",
+      "isWebApp": false,
+      "downloadURL": "https://samuellouf.github.io/PyBrowser/#download",
       "isProject": true,
-      "tags": ["TurboWarp", "TurboWarp Extension"]
+      "tags": ["Python", "API", "Web", "Browser", "PyQt", "PyQt5"]
     },
     {
       "name": "Web Media Player",
@@ -23,6 +22,28 @@
       "downloadURL": "",
       "isProject": true,
       "tags": ["Web", "Media", "Player", "WebMediaPlayer", "Multimedia", "Video", "Image", "Music", "Subtitles", "Tracks"]
+    },
+    {
+      "name": "Music",
+      "url": "https://samuellouf.github.io/music/",
+      "short_description": "My Music and Remakes.",
+      "description": "",
+      "isDownloadableApp": false,
+      "isWebApp": false,
+      "isProject": false,
+      "tags": ["Music", "Remake"]
+    },
+    {
+      "name": "TurboWarp Extension Creator",
+      "url": "https://samuellouf.github.io/TurboWarp-Extension-Creator/",
+      "short_description": "Easily create TurboWarp Extensions.",
+      "description": "",
+      "isDownloadableApp": true,
+      "isWebApp": true,
+      "webAppURL": "https://samuellouf.github.io/TurboWarp-Extension-Creator/app/",
+      "downloadURL": "https://samuellouf.github.io/TurboWarp-Extension-Creator/?download",
+      "isProject": true,
+      "tags": ["TurboWarp", "TurboWarp Extension"]
     },
     {
       "name": "API",
@@ -44,16 +65,6 @@
       "downloadURL": "https://samuellouf.github.io/Free-JavaScript-YouTube-Video-API/api.js",
       "isProject": true,
       "tags": ["YouTube", "JavaScript", "API"]
-    },
-    {
-      "name": "Music",
-      "url": "https://samuellouf.github.io/music/",
-      "short_description": "My Music and Remakes.",
-      "description": "",
-      "isDownloadableApp": false,
-      "isWebApp": false,
-      "isProject": false,
-      "tags": ["Music", "Remake"]
     }
   ]
 }
