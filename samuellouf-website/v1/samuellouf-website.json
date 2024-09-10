@@ -4,7 +4,7 @@
       "name": "PyBrowser",
       "url": "https://samuellouf.github.io/PyBrowser/",
       "short_description": "A free, open-source, Python-made web browser.",
-      "description": "",
+      "description": "PyBrowser is a free, open-source web browser built with Python. It aims to provide a minimal yet functional web browsing experience while being lightweight and customizable.",
       "isDownloadableApp": true,
       "isWebApp": false,
       "downloadURL": "https://samuellouf.github.io/PyBrowser/#download",
