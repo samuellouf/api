@@ -1,6 +1,16 @@
 {
   "pages": [
     {
+      "name": "JSConsole",
+      "url": "https://samuellouf.github.io/JSConsole/",
+      "short_description": "An online JavaScript console.",
+      "isDownloadableApp": true,
+      "isWebApp": true,
+      "downloadURL": "https://github.com/samuellouf/JSConsole/releases",
+      "isProject": true,
+      "tags": ["JavaScript", "Console", "Web"]
+    },
+    {
       "name": "PyBrowser",
       "url": "https://samuellouf.github.io/PyBrowser/",
       "short_description": "A free, open-source, Python-made web browser.",
