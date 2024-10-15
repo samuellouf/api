@@ -4,6 +4,7 @@
       "name": "JSConsole",
       "url": "https://samuellouf.github.io/JSConsole/",
       "short_description": "An online JavaScript console.",
+      "description": "",
       "isDownloadableApp": true,
       "isWebApp": true,
       "downloadURL": "https://github.com/samuellouf/JSConsole/releases",
@@ -29,9 +30,20 @@
       "isDownloadableApp": false,
       "isWebApp": true,
       "webAppURL": "https://samuellouf.github.io/WebMediaPlayer/player",
-      "downloadURL": "",
+      "downloadURL": "https://github.com/samuellouf/ScratchTools/releases",
       "isProject": true,
       "tags": ["Web", "Media", "Player", "WebMediaPlayer", "Multimedia", "Video", "Image", "Music", "Subtitles", "Tracks"]
+    },
+    {
+      "name": "ScratchTools",
+      "url": "https://samuellouf.github.io/ScratchTools/",
+      "short_description": "Various Scratch Utilities.",
+      "description": "",
+      "isDownloadableApp": true,
+      "isWebApp": true,
+      "downloadURL": "https://github.com/samuellouf/ScratchTools/releases",
+      "isProject": true,
+      "tags": ["JavaScript", "Scratch", "TurboWarp", "Utilities", "Web"]
     },
     {
       "name": "Music",
