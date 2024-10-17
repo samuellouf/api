@@ -35,6 +35,18 @@
       "tags": ["Web", "Media", "Player", "WebMediaPlayer", "Multimedia", "Video", "Image", "Music", "Subtitles", "Tracks"]
     },
     {
+      "name": "queryCreator",
+      "url": "https://samuellouf.github.io/queryCreator/",
+      "short_description": "Create HTML elements from a query string.",
+      "description": "",
+      "isDownloadableApp": true,
+      "isWebApp": false,
+      "webAppURL": "",
+      "downloadURL": "https://github.com/samuellouf/queryCreator/releases/",
+      "isProject": true,
+      "tags": ["Web", "JavaScript", "query", "queryCreator"]
+    },
+    {
       "name": "ScratchTools",
       "url": "https://samuellouf.github.io/ScratchTools/",
       "short_description": "Various Scratch Utilities.",
