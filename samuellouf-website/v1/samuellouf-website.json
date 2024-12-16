@@ -47,6 +47,18 @@
       "tags": ["Web", "JavaScript", "query", "queryCreator"]
     },
     {
+      "name": "watchFunction",
+      "url": "https://samuellouf.github.io/watchFunction/",
+      "short_description": "A function to watch a function’s response and send events to a listener.",
+      "description": "",
+      "isDownloadableApp": false,
+      "isWebApp": false,
+      "webAppURL": "",
+      "downloadURL": null,
+      "isProject": true,
+      "tags": ["Web", "JavaScript", "watch", "watchdog"]
+    },
+    {
       "name": "ScratchTools",
       "url": "https://samuellouf.github.io/ScratchTools/",
       "short_description": "Various Scratch Utilities.",
