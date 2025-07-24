@@ -12,6 +12,17 @@
       "tags": ["JavaScript", "Console", "Web"]
     },
     {
+      "name": "DISM",
+      "url": "https://samuellouf.github.io/DISM/",
+      "short_description": "Easily use Microsoft’s DISM Command-Line Interface in Python..",
+      "description": "",
+      "isDownloadableApp": true,
+      "isWebApp": false,
+      "downloadURL": "https://github.com/samuellouf/DISM/releases",
+      "isProject": true,
+      "tags": ["Python", "Microsoft", "Windows", "DISM"]
+    },
+    {
       "name": "PyBrowser",
       "url": "https://samuellouf.github.io/PyBrowser/",
       "short_description": "A free, open-source, Python-made web browser.",
