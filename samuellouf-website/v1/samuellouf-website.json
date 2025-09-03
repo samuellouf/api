@@ -111,17 +111,6 @@
       "isWebApp": false,
       "isProject": false,
       "tags": ["api"]
-    },
-    {
-      "name": "Free JavaScript YouTube Video API",
-      "url": "https://samuellouf.github.io/Free-JavaScript-YouTube-Video-API/",
-      "short_description": "Use YouTube’s video API in JavaScript.",
-      "description": "",
-      "isDownloadableApp": true,
-      "isWebApp": false,
-      "downloadURL": "https://samuellouf.github.io/Free-JavaScript-YouTube-Video-API/api.js",
-      "isProject": true,
-      "tags": ["YouTube", "JavaScript", "API"]
     }
   ]
 }
